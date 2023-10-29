@@ -1,4 +1,4 @@
-# smallchat-java
+# ChatRoom-java
 A minimal programming example for a chat server in Java.
 
 Redis作者 Salvatore Sanfilippo 最近创建一个新的演示项目：[smallchat](https://github.com/antirez/smallchat)，用了200行代码实现了一个聊天室。这个项目的目的是展示如何用Go语言实现一个简单的聊天服务器。
